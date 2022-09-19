@@ -71,20 +71,30 @@ header {
 
 @media screen and (max-width: 1024px) {
    header {
-    height: 120vh;
+    height: 70vh;
 
+   }
+
+   .me {
+    position: absolute;
+    left: 30%;
    }
 }
 
 /* MEDIA QUERIES SMALL DEVICES */
 @media screen and (max-width: 600px) {
 header {
-    height: 120vh;
+    height: 80vh;
     
    }
 
    .header__socials, 
    .scroll__down {
     display: none;
+   }
+
+   .me {
+    position: absolute;
+    left: 20%;
    }
 }
