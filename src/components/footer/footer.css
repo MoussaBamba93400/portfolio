@@ -1,0 +1,22 @@
+footer {
+    background: var(--color-primary);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 7rem;
+}
+
+.permalinks {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer a {
+    color: var(--color-bg);
+}
+
+@media screen and (max-width: 430px) {
+     .permalinks {
+        flex-direction: column;
+     }
+}
