@@ -14,7 +14,7 @@ const About = () => {
     <div className='container about__container'>
       <div className='about__me'>
         <div className="about__me-image">
-          <img src={ME} alt="About Image" />
+          <img src={ME} alt="About" />
         </div>
       </div>
 
@@ -23,24 +23,24 @@ const About = () => {
           <article className='about__card'>
             <VscFolderLibrary  className='about__icon'/>
             <h5>Experience</h5>
-            <small>3+ years Working</small>
+            <small>9 months learning</small>
           </article>
 
           <article className='about__card'>
             <FiUsers  className='about__icon'/>
             <h5>Clients</h5>
-            <small>200+ worldwide</small>
+            <small>None yet</small>
           </article>
           
           <article className='about__card'>
             <FaAward  className='about__icon'/>
             <h5>Projects</h5>
-            <small>80+ completed</small>
+            <small>5 completed</small>
           </article>
          </div>
 
          <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus culpa numquam, rem eveniet sit officiis, alias quod molestiae eligendi voluptate quibusdam cum optio omnis placeat magni at ipsum cupiditate blanditiis?
+         Hi i'm a 21 yrs old junior web developer, i'm open to any work proposal that will help me improve my skills. I'm currently more efficient on frontend but ready to work on backend Projects.
          </p>
 
          <a href='#contact' className='btn btn-primary'>Let's Talk</a>

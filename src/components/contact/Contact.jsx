@@ -36,19 +36,19 @@ function refreshPage() {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>moussabulls1@gmail.com</h5>
-            <a href="mailto:moussabulls1@gmail.com" target="_blank">Send a message</a>
+            <a href="mailto:moussabulls1@gmail.com"  rel="noreferrer"  target="_blank">Send a message</a>
            </article>
            <article className="contact__option">
             <AiFillLinkedin  className='contact__option-icon'/>
             <h4>Linkedin</h4>
             <h5>moussabulls1@gmail.com</h5>
-            <a href="https://www.linkedin.com/in/moussabamba20/" target="_blank">Check my profile</a>
+            <a href="https://www.linkedin.com/in/moussabamba20/"  rel="noreferrer"  target="_blank">Check my profile</a>
            </article>
            <article className="contact__option">
             <BsWhatsapp  className='contact__option-icon'/>
             <h4>What's app</h4>
             <h5>+33 6 51 73 41 50</h5>
-            <a href="https://api.whatsapp.com/send?phone+330651734150" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone+330651734150"  rel="noreferrer"  target="_blank">Send a message</a>
            </article>
         </div>
         <form ref={form} onSubmit={sendEmail} >

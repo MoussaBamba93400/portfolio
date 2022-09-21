@@ -1,6 +1,9 @@
 import React from 'react'
 import './portfolio.css'
 import panthere from '../../assets/la_Panthere.png'
+import ohmyfood from '../../assets/Ohmyfood.png'
+import booki from '../../assets/booki.png'
+import kanap from '../../assets/kanap.png'
 
 
 const data = [
@@ -13,39 +16,25 @@ const data = [
   },
   {
     id: 2,
-    image: panthere,
-    title: 'La panthere',
-    github: 'https://github.com',
-    demo: 'https://moussabamba93400.github.io/Projet-4-OC-site-Optimiser/'
+    image: ohmyfood,
+    title: 'Oh my food',
+    github: 'https://github.com/MoussaBamba93400/projetOC3-ohmyfood',
+    demo: 'https://moussabamba93400.github.io/projetOC3-ohmyfood/'
   },
   {
     id: 3,
-    image: panthere,
-    title: 'La panthere',
-    github: 'https://github.com',
-    demo: 'https://moussabamba93400.github.io/Projet-4-OC-site-Optimiser/'
+    image: booki,
+    title: 'Booki',
+    github: 'https://github.com/MoussaBamba93400/OpenClassroom',
+    demo: 'https://moussabamba93400.github.io/OpenClassroom/'
   },
   {
     id: 4,
-    image: panthere,
-    title: 'La panthere',
-    github: 'https://github.com',
-    demo: 'https://moussabamba93400.github.io/Projet-4-OC-site-Optimiser/'
-  },
-  {
-    id: 5,
-    image: panthere,
-    title: 'La panthere',
-    github: 'https://github.com',
-    demo: 'https://moussabamba93400.github.io/Projet-4-OC-site-Optimiser/'
-  },
-  {
-    id: 6,
-    image: panthere,
-    title: 'La panthere',
-    github: 'https://github.com',
-    demo: 'https://moussabamba93400.github.io/Projet-4-OC-site-Optimiser/'
-  }
+    image: kanap,
+    title: 'Kanap',
+    github: 'https://github.com/MoussaBamba93400/P5-OC-Kanap',
+    demo: 'https://genuine-puppy-3aa317.netlify.app/html/'
+  }, 
 ]
 
 
