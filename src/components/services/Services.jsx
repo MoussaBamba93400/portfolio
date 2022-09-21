@@ -9,7 +9,7 @@ const Services = () => {
       <h2>Services</h2>
 {/* web development */}
 <div className="container services__container">
-        <article className='service'>
+        <article className='service web-dev'>
           <div className="service__head">
             <h3>Web Development</h3>
           </div>
@@ -17,48 +17,25 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsuerlit sequi quocon</p>
+              <p>Intégration HTML/CSS</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor siverisi aspernatur con</p>
+              <p>Dynamise des pages par Javascript/AJAX</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum do vero rsequi quo nisi atur con</p>
+              <p>Validation W3C, réferencement naturel Seo</p>
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolort nisi aspernatur con</p>
+              <p>Intégration d'application React</p>
             </li>
           </ul>
         </article>
 
 
-        <article className='service'>
-          <div className="service__head">
-            <h3>UI/UX Design</h3>
-          </div>
-
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p> quidem apelibhbbgbbgbbbbhbbbtur con</p>
-            </li>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>tate velit sequi quo nisi aspernatur con</p>
-            </li>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>lae cupisi aspernatur con</p>
-            </li>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>ndae cupidunnnnatur con</p>
-            </li>
-          </ul>
-        </article>
+        
 
       </div>
     </section>

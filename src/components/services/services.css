@@ -12,6 +12,10 @@
     transition: var(--transition);
 }
 
+.web-dev {
+    grid-area: auto/2/auto/3;
+}
+
 .service:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
