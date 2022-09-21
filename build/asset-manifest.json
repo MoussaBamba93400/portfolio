@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27eb87c9.css",
-    "main.js": "/static/js/main.bce315be.js",
+    "main.css": "/static/css/main.6cdb761b.css",
+    "main.js": "/static/js/main.79c3530a.js",
     "static/media/booki.png": "/static/media/booki.cfd560df224ecbcadbd1.png",
     "static/media/la_Panthere.png": "/static/media/la_Panthere.a0a4f24b2f5d3580004a.png",
     "static/media/kanap.png": "/static/media/kanap.e86975edb6b38a03d287.png",
@@ -9,11 +9,11 @@
     "static/media/CV_Bamba_Moussa.pdf": "/static/media/CV_Bamba_Moussa.edcbddfca722d0261030.pdf",
     "static/media/profile.jpg": "/static/media/profile.23c6955a076efc8c689e.jpg",
     "index.html": "/index.html",
-    "main.27eb87c9.css.map": "/static/css/main.27eb87c9.css.map",
-    "main.bce315be.js.map": "/static/js/main.bce315be.js.map"
+    "main.6cdb761b.css.map": "/static/css/main.6cdb761b.css.map",
+    "main.79c3530a.js.map": "/static/js/main.79c3530a.js.map"
   },
   "entrypoints": [
-    "static/css/main.27eb87c9.css",
-    "static/js/main.bce315be.js"
+    "static/css/main.6cdb761b.css",
+    "static/js/main.79c3530a.js"
   ]
 }

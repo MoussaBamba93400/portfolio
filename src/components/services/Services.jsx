@@ -7,34 +7,8 @@ const Services = () => {
     <section id="services">
       <h5>What I Offer</h5>
       <h2>Services</h2>
-
-      <div className="container services__container">
-        <article className='service'>
-          <div className="service__head">
-            <h3>UI/UX Design</h3>
-          </div>
-
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>Loremilit sequi quo nisi aspernatur con</p>
-            </li>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amaccusamus quidem apen</p>
-            </li>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur an</p>
-            </li>
-            <li>
-              <BiCheck className='services__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetun</p>
-            </li>
-          </ul>
-        </article>
-
 {/* web development */}
+<div className="container services__container">
         <article className='service'>
           <div className="service__head">
             <h3>Web Development</h3>
