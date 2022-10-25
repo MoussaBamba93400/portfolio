@@ -4,6 +4,7 @@ import panthere from '../../assets/la_Panthere.png'
 import ohmyfood from '../../assets/Ohmyfood.png'
 import booki from '../../assets/booki.png'
 import kanap from '../../assets/kanap.png'
+import kasa from '../../assets/kasa.png'
 
 
 const data = [
@@ -35,6 +36,14 @@ const data = [
     github: 'https://github.com/MoussaBamba93400/P5-OC-Kanap',
     demo: 'https://genuine-puppy-3aa317.netlify.app/html/'
   }, 
+  {
+    id: 5,
+    image: kasa,
+    title: 'Kasa',
+    github: 'https://github.com/MoussaBamba93400/OC-P7-site-location',
+    demo: 'https://kasa-location-immobiliere.netlify.app/'
+  }, 
+  
 ]
 
 
@@ -42,7 +51,6 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">

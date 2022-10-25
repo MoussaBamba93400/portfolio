@@ -22,8 +22,12 @@
     overflow: hidden;
 }
 
+.portfolio__item-image img {
+  height: 25vh;
+}
+
 .portfolio__item h3 {
-    margin: 1.2 0 2rem;
+    margin: 1.2rem 0 1.5rem;
 }
 
 

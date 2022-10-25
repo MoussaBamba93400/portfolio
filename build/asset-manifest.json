@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cdb761b.css",
-    "main.js": "/static/js/main.79c3530a.js",
+    "main.css": "/static/css/main.5b8b9a52.css",
+    "main.js": "/static/js/main.613c58ab.js",
     "static/media/booki.png": "/static/media/booki.cfd560df224ecbcadbd1.png",
+    "static/media/kasa.png": "/static/media/kasa.113fbac2c282721f37bc.png",
     "static/media/la_Panthere.png": "/static/media/la_Panthere.a0a4f24b2f5d3580004a.png",
     "static/media/kanap.png": "/static/media/kanap.e86975edb6b38a03d287.png",
+    "static/media/best-programming.png": "/static/media/best-programming.8ae7571e2d8d2d69bb7f.png",
     "static/media/Ohmyfood.png": "/static/media/Ohmyfood.dd3f49e194f3a00986a8.png",
+    "static/media/blob.jpg": "/static/media/blob.445e42d6f0e020da7eb7.jpg",
     "static/media/CV_Bamba_Moussa.pdf": "/static/media/CV_Bamba_Moussa.edcbddfca722d0261030.pdf",
-    "static/media/profile.jpg": "/static/media/profile.23c6955a076efc8c689e.jpg",
     "index.html": "/index.html",
-    "main.6cdb761b.css.map": "/static/css/main.6cdb761b.css.map",
-    "main.79c3530a.js.map": "/static/js/main.79c3530a.js.map"
+    "main.5b8b9a52.css.map": "/static/css/main.5b8b9a52.css.map",
+    "main.613c58ab.js.map": "/static/js/main.613c58ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cdb761b.css",
-    "static/js/main.79c3530a.js"
+    "static/css/main.5b8b9a52.css",
+    "static/js/main.613c58ab.js"
   ]
 }

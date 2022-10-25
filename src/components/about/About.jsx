@@ -8,8 +8,7 @@ import {VscFolderLibrary} from 'react-icons/vsc'
 const About = () => {
   return (
    <section id="about">
-    <h5>Get To Know</h5>
-    <h2>About Me</h2>
+    <h2>A propos de moi</h2>
 
     <div className='container about__container'>
       <div className='about__me'>
@@ -23,7 +22,7 @@ const About = () => {
           <article className='about__card'>
             <VscFolderLibrary  className='about__icon'/>
             <h5>Experience</h5>
-            <small>9 months learning</small>
+            <small>Bac+2 Openclassrooms</small>
           </article>
 
           <article className='about__card'>
@@ -40,7 +39,7 @@ const About = () => {
          </div>
 
          <p>
-         Hi i'm a 21 yrs old junior web developer, i'm open to any work proposal that will help me improve my skills. I'm currently more efficient on frontend but ready to work on backend Projects.
+         Bonjour je suis un jeune développeur de 21 ans, je suis ouvert a tout type de d'experience professionel dans le développement web. Actuellement je suis plus à l'aise sur les technologie React, node.js avec mongoDB et MySQL en base de données, mais je suis près a apprendre les technologie nécessaire pour votre projet.
          </p>
 
          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
