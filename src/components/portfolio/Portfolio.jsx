@@ -5,6 +5,7 @@ import ohmyfood from '../../assets/Ohmyfood.png'
 import booki from '../../assets/booki.png'
 import kanap from '../../assets/kanap.png'
 import kasa from '../../assets/kasa.png'
+import shoes_page from '../../assets/Shoes_page.jpg'
 
 
 const data = [
@@ -43,6 +44,13 @@ const data = [
     github: 'https://github.com/MoussaBamba93400/OC-P7-site-location',
     demo: 'https://kasa-location-immobiliere.netlify.app/'
   }, 
+  {
+    id: 6,
+    image: shoes_page,
+    title: 'Shoes product page',
+    github: 'https://github.com/MoussaBamba93400/product-page-challenge',
+    demo: 'https://product-page-challenge.netlify.app/'
+  }
   
 ]
 
