@@ -29,7 +29,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='services__list-icon' />
-              <p>Intégration d'application React</p>
+              <p>Intégration d'application React/Vue.js</p>
+            </li>
+            <li>
+              <BiCheck className='services__list-icon' />
+              <p>Conception et déploiment d'application web fullstack</p>
             </li>
           </ul>
         </article>

@@ -26,6 +26,12 @@ const About = () => {
           </article>
 
           <article className='about__card'>
+            <VscFolderLibrary  className='about__icon'/>
+            <h5>Experience</h5>
+            <small>Développeur web en alterance chez Allegro musique</small>
+          </article>
+
+          <article className='about__card'>
             <FiUsers  className='about__icon'/>
             <h5>Clients</h5>
             <small>None yet</small>
@@ -34,12 +40,12 @@ const About = () => {
           <article className='about__card'>
             <FaAward  className='about__icon'/>
             <h5>Projects</h5>
-            <small>5 completed</small>
+            <small>8 completed</small>
           </article>
          </div>
 
          <p>
-         Bonjour je suis un jeune développeur de 21 ans, je suis ouvert a tout type de d'experience professionel dans le développement web. Actuellement je suis plus à l'aise sur les technologie React, node.js avec mongoDB et MySQL en base de données, mais je suis près a apprendre les technologie nécessaire pour votre projet.
+         Bonjour je suis un jeune développeur de 21 ans, je suis ouvert au demande de conception de site vitrine professionel. Actuellement je travaille chez allegro musique sur la stack Laravel, Vue.js je suis aussi compétent sur les technologie React, node.js avec mongoDB et MySQL en base de données, mais je suis près a apprendre les technologie nécessaire pour votre projet.
          </p>
 
          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
