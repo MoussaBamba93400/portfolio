@@ -44,14 +44,21 @@ const data = [
     github: 'https://github.com/MoussaBamba93400/OC-P7-site-location',
     demo: 'https://kasa-location-immobiliere.netlify.app/'
   }, 
+  
   {
     id: 6,
     image: shoes_page,
     title: 'Shoes product page',
     github: 'https://github.com/MoussaBamba93400/product-page-challenge',
     demo: 'https://product-page-challenge.netlify.app/'
+  },
+  {
+    id: 7,
+    image: shoes_page,
+    title: 'Payment Card',
+    github: 'https://github.com/MoussaBamba93400/payement-card',
+    demo: 'https://venerable-churros-431d5f.netlify.app/'
   }
-  
 ]
 
 
